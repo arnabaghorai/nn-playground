@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import "./style.css"
+import "./nn_style.css"
 export default class NNComponent extends Component {
     render() {
         return (
